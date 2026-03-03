@@ -53,7 +53,7 @@ make
 ```
 
 ## Requirements
-- **C99** or higher
+- **C17** or higher
 - **CMake** 3.16+
 - **GCC** or **Clang**
 
